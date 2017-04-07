@@ -4,7 +4,7 @@ Plugin for [fman.io](https://fman.io) to archive files selected in fman (zip and
 
 [Install](https://fman.io/docs/plugins) by pressing **Ctrl+Shift+p** in fman, selecting "Install plugin", and choosing "ArchiveSelected".
 
-Thanks to [raguay](https://github.com/raguay) whose code I shamelessly ~~hacked~~, ~~copied~~, extended.
+Thanks to [raguay](https://github.com/raguay) whose [code](https://github.com/raguay/ZipSelected) I shamelessly ~~hacked~~, ~~copied~~, extended.
 
 ### Usage
 
